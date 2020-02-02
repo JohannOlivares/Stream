@@ -22,4 +22,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="StreamRecording.gif" width=250/>br>
 
 ### Notes
-I learned alot today and it was stress, alot of debugging but it was fun.
+I learned alot today and it was a bit stressful trying to figure our how to use a Apple computer there was also alot of debugging but it was fun and I enjoyed the experience.
