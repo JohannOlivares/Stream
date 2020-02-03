@@ -1,0 +1,6 @@
+framework module Pods_StreamTests {
+  umbrella header "Pods-StreamTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
