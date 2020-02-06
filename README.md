@@ -11,7 +11,7 @@
 
 ### App Walkthough GIF
 
-<img src="Flix_Part2.gif" width=250/>
+<img src="StreamRecording2.gif" width=250/>
 
 ### Notes
 I feel like I am finally getting the hang of the IOS and the Xcode software, although I'm not a pro yet, it is was fun seeing this unravel and seeing how it gets put together. Overall it was fun and I will continue to come back to it to improve it.
