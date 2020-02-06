@@ -11,7 +11,7 @@
 
 ### App Walkthough GIF
 
-<img src="Flix_Part2.gif" width=250><br>
+<img src="Flix_Part2.gif" width=250/>
 
 ### Notes
 I feel like I finally got the hang of the IOS and the new Xcode software, although I'm not a pro yet, it is was fun seeing this unravel and seeing how it gets put together.
@@ -36,7 +36,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="StreamRecording.gif" width=250/>br>
+<img src="StreamRecording.gif" width=250/>
 
 ### Notes
 I learned alot today and it was a bit stressful trying to figure our how to use a Apple computer there was also alot of debugging but it was fun and I enjoyed the experience.
