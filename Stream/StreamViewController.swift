@@ -85,6 +85,8 @@ class StreamViewController: UIViewController, UITableViewDataSource, UITableView
         
         detailsViewController.movie = movie
         
+        //tableView.deselectRow(at: indexPath, animated: true)
+        
     }
 
 
