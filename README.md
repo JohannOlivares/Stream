@@ -7,6 +7,7 @@ and see information of new movie releases.
 ## Flix (Second Iteration)
 - [x] Update User Interface
 - [x] Added a movie page
+- [x] Add a Superhero Movies Tab 
 
 <img src="StreamRecording2.gif" width=250/>
 
