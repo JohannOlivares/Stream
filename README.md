@@ -1,7 +1,8 @@
 
 # Stream IOS Application
 ## Description
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Stream is an IOS app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#)
+and see information of new movie releases.
 
 ## Flix (Second Iteration)
 - [x] Update User Interface
